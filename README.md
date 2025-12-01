@@ -10,6 +10,17 @@
 - **Tools:** Git, Docker, Linux, VSCode, DBeaver  
 - **Other:** Flask, 1C:Enterprise, Bash scripting  
 
+## 📜 Certificates
+
+### 🟦 Добрый, добрый C/C++
+Результат: **100%**, с отличием  
+Сертификат: https://stepik.org/cert/2989913  
+
+### 🟩 Добрый, добрый ООП C++
+Результат: **100%**, с отличием  
+Сертификат: https://stepik.org/cert/3040904  
+
+
 #### 🚀 Current Projects
 - Optimizing SQL queries and data pipelines  
 - Neural network models for ECG diagnostics  
