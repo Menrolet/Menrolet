@@ -37,3 +37,32 @@
 [![](https://visitcount.itsvg.in/api?id=Menrolet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🤖 Telegram Bot — SaveDropBot (VidHelperBot)
+
+One of my active projects is **SaveDropBot** — a Telegram bot for downloading videos and files by link.
+
+🔗 Telegram: https://t.me/VidHelperbot
+
+**Description:**
+- Accepts http/https links directly in chat
+- Downloads video or file and sends it back to the user
+- Supports:
+  - YouTube (including Shorts, with quality selection)
+  - Instagram
+  - TikTok
+  - Direct file links
+- Uses `yt-dlp` for downloading and `ffmpeg` for correct MP4 processing when required
+- Supports cookies for Instagram / TikTok / YouTube
+- Automatically removes temporary files after sending
+- Can work with Redis-based queue and worker processes for high load scenarios
+
+**Tech stack:**
+- Python 3.11+
+- aiogram 3.x
+- yt-dlp
+- ffmpeg
+- Redis (optional, task queue)
+- Docker / Docker Compose
+
+> Source code is private (production project).
