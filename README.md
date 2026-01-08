@@ -52,9 +52,7 @@ One of my active projects is **SaveDropBot** — a Telegram bot for downloading 
   - Instagram
   - TikTok
   - Direct file links
-- Uses `yt-dlp` for downloading and `ffmpeg` for correct MP4 processing when required
-- Supports cookies for Instagram / TikTok / YouTube
-- Automatically removes temporary files after sending
+
 - Can work with Redis-based queue and worker processes for high load scenarios
 
 **Tech stack:**
