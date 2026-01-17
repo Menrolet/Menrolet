@@ -4,7 +4,7 @@
 🤖 Telegram Bots
 
 🔹 SaveDropBot (VidHelperBot)
-One of my active projects is **SaveDropBot** — a Telegram bot for downloading videos and files by link.
+One of my active projects is **SaveDropBot** - a Telegram bot for downloading videos and files by link.
 
 🔗 Telegram: https://t.me/VidHelperbot  
 
@@ -25,7 +25,7 @@ One of my active projects is **SaveDropBot** — a Telegram bot for downloading 
 ---
 
 🔹 StihiPisaniyaBot
-Another project is **StihiPisaniyaBot** — a Telegram bot with curated Bible verses for emotional and spiritual support.
+Another project is **StihiPisaniyaBot** - a Telegram bot with curated Bible verses for emotional and spiritual support.
 
 🔗 Telegram: https://t.me/StihiPisaniyaBot  
 🔗 GitHub: https://github.com/Menrolet/GodLovesYou  
